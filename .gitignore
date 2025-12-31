@@ -1,6 +1,10 @@
 # Dependencies
 node_modules/
 
+# Next.js
+.next/
+out/
+
 # Environment
 .env
 .env.local
@@ -14,3 +18,4 @@ supabase/.temp/
 # IDE
 .vscode/
 .idea/
+.vercel
